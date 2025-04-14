@@ -281,7 +281,7 @@ You will see:
 
 ## 🧑‍💻 Author
 
-Made with 💙 by [Your Name]  
+Made with 💙 by Siddarood
 Open to improvements and contributions!
 
 ---
